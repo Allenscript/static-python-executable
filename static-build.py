@@ -4,7 +4,7 @@ Python script into a standalone executable which is statically linked to the
 Python runtime.
 
 Usage:
-    python static_freeze.py test_file.py /path/to/static/libpythonX.X.a
+    python static-build.py test_file.py /path/to/static/libpythonX.X.a
 '''
 
 import sys
